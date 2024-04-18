@@ -1,6 +1,6 @@
 # Zonama DBs
 
-![Logo](logo.jpg)
+![Logo](zonama.png)
 
 Welcome to Zonama DBs! We provide high-security databases for various platforms.
 
