@@ -1,27 +1,25 @@
 # Zonama DBs
 
-![Logo](zonama.png)
+![Logo](logo.jpg)
 
-Welcome to Zonama DBs! We provide high-security databases for various platforms.
+Welcome to Zonama DBs! We provide databases obtained from various platforms' vulnerabilities for a certain fee. Interested users can acquire these databases.
 
 ## About Us
 
-Zonama DBs is a leading provider of secure and reliable databases for businesses and individuals. Our mission is to ensure data security and integrity while providing top-notch services to our clients.
+Zonama DBs is a leading provider of databases obtained through security vulnerabilities. Our mission is to provide reliable and secure databases to our customers while ensuring data security.
 
-## Services
+## Our Services
 
-- High-security databases for various platforms
+- Databases obtained from vulnerabilities in various platforms
 - Reliable data storage solutions
-- Expert consultancy for database management
+- Expert consultancy in database management
 
-## Get Started
+## Getting Started
 
-1. Clone this repository to your local machine.
-2. Install the necessary dependencies.
-3. Run the application and explore our databases.
+1. Visit the Zonama DBs website to learn more: [Zonama DBs](https://zonama.pythonanywhere.com/)
 
 ## Contact Us
 
 For inquiries and support, please contact us at [zonama.dbs@gmail.com](mailto:zonama.dbs@gmail.com).
 
-Let's secure your data with Zonama DBs!
+Secure your data with Zonama DBs and acquire the databases you need!
