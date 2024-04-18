@@ -2,6 +2,7 @@
 
 ![Logo](zonama.png)
 ![Preview](preview.png)
+
 Welcome to Zonama DBs! We provide databases obtained from various platforms' vulnerabilities for a certain fee. Interested users can acquire these databases.
 
 ## About Us
